@@ -1,0 +1,10 @@
+{
+  "name": "www-le-business",
+  "scripts": {},
+  "env": {},
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ]
+}
