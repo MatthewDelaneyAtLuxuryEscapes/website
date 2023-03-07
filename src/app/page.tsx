@@ -1,7 +1,11 @@
+'use client'
+import React from 'react'
+import { Container, Typography } from '@mui/material'
+
 export default function Home() {
   return (
-    <main>
-      <h1>Hello business.</h1>
-    </main>
+    <Container component="main">
+      <Typography variant="h1">Nothing to see here!</Typography>
+    </Container>
   )
 }
